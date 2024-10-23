@@ -1,0 +1,63 @@
+.navbar {
+    background-color: rgb(113, 127, 135);
+}
+
+.nav-item {
+    font-size: 1em;
+    margin-right: 5em;
+}
+
+.navbar-nav,.navbar-brand,.nav-link.active,.nav-link.disabled {
+    color: white;
+    margin-right: 4.5em;
+}
+
+.nav-link.active  a{
+    color: white;
+}
+
+
+h5{
+    text-align: center;
+}
+
+.title {
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+h2{
+    font-size: 2rem;
+    text-align: center;
+    color:rgb(33, 32, 32);
+}
+
+h3{
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.carousel slide{
+    width: 20%;
+    text-align: center;
+}
+
+.list-group{
+    width: 15em;
+    margin-left: 20%;
+    text-decoration: underline;
+}
+
+.col {
+    padding: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.navbar-nav .nav-link.active, .navbar-nav .nav-link.show {
+    color: white;
+}
+
+#opcion1,#opcion2,#opcion3,#opcion4{
+    border-radius: 5px;
+    padding: 1em;
+}
